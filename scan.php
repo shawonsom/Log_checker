@@ -1,17 +1,19 @@
 <?php
 header('Content-Type: application/json');
 
+// Define the base directory for logs
+$baseDir = realpath(__DIR__);
+
 // Get the folder from the 'folder' URL parameter. Default to '.' (current directory) if not set.
-$folder = isset($_GET['folder']) ? basename($_GET['folder']) : '.';
+$folderName = isset($_GET['folder']) ? basename($_GET['folder']) : '.';
 
-// Prevent directory traversal issues and construct the path.
-// If the selected folder is the root 'log' directory, use '.'
-$logDir = ($folder === '.' || $folder === 'log') ? '.' : './' . $folder;
+// Construct the path to the folder
+$logDir = ($folderName === '.' || $folderName === 'log') ? $baseDir : $baseDir . DIRECTORY_SEPARATOR . $folderName;
 
-// Check if the directory actually exists
-if (!is_dir($logDir)) {
-    // Return a JSON error if the directory doesn't exist
-    echo json_encode(['error' => 'Directory not found: ' . $logDir]);
+// Security check: ensure the resolved path is within the base directory and is a directory
+if (!realpath($logDir) || strpos(realpath($logDir), $baseDir) !== 0 || !is_dir($logDir)) {
+    // Return a JSON error if the directory doesn't exist or is outside the allowed scope
+    echo json_encode(['error' => 'Directory not found or access denied.']);
     exit;
 }
 
