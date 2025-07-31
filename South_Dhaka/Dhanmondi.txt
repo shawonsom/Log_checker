@@ -1,0 +1,29 @@
+Log Entry 1:
+Name: Nazrul Islam
+Phone: +8801734567890
+Address: House 20, Road 22, Dhanmondi, Dhaka
+Email: nazrul.islam@example.com
+Spouse: Rokeya Begum
+Gender: Male
+Profession: Journalist
+Hobby: Writing
+
+Log Entry 2:
+Name: Sharmin Akter
+Phone: +8801834567891
+Address: House 21, Road 23, Dhanmondi, Dhaka
+Email: sharmin.akter@example.com
+Spouse: Kamal Hossain
+Gender: Female
+Profession: Banker
+Hobby: Shopping
+
+Log Entry 3:
+Name: Arif Khan
+Phone: +8801934567892
+Address: House 24, Road 25, Dhanmondi, Dhaka
+Email: arif.khan@example.com
+Spouse: Tania Ahmed
+Gender: Male
+Profession: IT Professional
+Hobby: Gaming

@@ -1,0 +1,29 @@
+Log Entry 1:
+Name: Mahmudullah Riyad
+Phone: +8801701234567
+Address: House 90, Road 92, Lalbagh, Dhaka
+Email: mahmudullah.riyad@example.com
+Spouse: Jannatul Kawsar Mishti
+Gender: Male
+Profession: Cricketer
+Hobby: Playing chess
+
+Log Entry 2:
+Name: Shabana Azmi
+Phone: +8801801234568
+Address: House 91, Road 93, Lalbagh, Dhaka
+Email: shabana.azmi@example.com
+Spouse: Javed Akhtar
+Gender: Female
+Profession: Actress
+Hobby: Reading
+
+Log Entry 3:
+Name: Ferdous Ahmed
+Phone: +8801901234569
+Address: House 94, Road 95, Lalbagh, Dhaka
+Email: ferdous.ahmed@example.com
+Spouse: Tania Reza
+Gender: Male
+Profession: Actor
+Hobby: Singing

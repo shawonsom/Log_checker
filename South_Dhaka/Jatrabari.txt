@@ -1,0 +1,29 @@
+Log Entry 1:
+Name: Mashrafe Mortaza
+Phone: +8801790123456
+Address: House 80, Road 82, Jatrabari, Dhaka
+Email: mashrafe.mortaza@example.com
+Spouse: Sumona Haque Shumi
+Gender: Male
+Profession: Cricketer
+Hobby: Playing football
+
+Log Entry 2:
+Name: Pori Moni
+Phone: +8801890123457
+Address: House 81, Road 83, Jatrabari, Dhaka
+Email: pori.moni@example.com
+Spouse: Sariful Razz
+Gender: Female
+Profession: Actress
+Hobby: Traveling
+
+Log Entry 3:
+Name: Ananta Jalil
+Phone: +8801990123458
+Address: House 84, Road 85, Jatrabari, Dhaka
+Email: ananta.jalil@example.com
+Spouse: Afiea Nusrat Barsha
+Gender: Male
+Profession: Actor
+Hobby: Gym

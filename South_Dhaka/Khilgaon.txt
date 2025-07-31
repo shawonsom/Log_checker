@@ -1,0 +1,29 @@
+Log Entry 1:
+Name: Tamim Iqbal
+Phone: +8801789012345
+Address: House 70, Road 72, Khilgaon, Dhaka
+Email: tamim.iqbal@example.com
+Spouse: Ayesha Siddiqa
+Gender: Male
+Profession: Cricketer
+Hobby: Listening to music
+
+Log Entry 2:
+Name: Nusrat Jahan
+Phone: +8801889012346
+Address: House 71, Road 73, Khilgaon, Dhaka
+Email: nusrat.jahan@example.com
+Spouse: Nikhil Jain
+Gender: Female
+Profession: Politician
+Hobby: Social Work
+
+Log Entry 3:
+Name: Mushfiqur Rahim
+Phone: +8801989012347
+Address: House 74, Road 75, Khilgaon, Dhaka
+Email: mushfiqur.rahim@example.com
+Spouse: Jannatul Kifayet Mondi
+Gender: Male
+Profession: Cricketer
+Hobby: Reading books

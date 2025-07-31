@@ -1,0 +1,29 @@
+Log Entry 1:
+Name: Riaz Uddin
+Phone: +8801711223344
+Address: House 1, Road 2, Savar, Dhaka
+Email: riaz.uddin@example.com
+Spouse: Moushumi Khatun
+Gender: Male
+Profession: Farmer
+Hobby: Fishing
+
+Log Entry 2:
+Name: Purnima Das
+Phone: +8801811223345
+Address: House 3, Road 4, Savar, Dhaka
+Email: purnima.das@example.com
+Spouse: Amit Hasan
+Gender: Female
+Profession: Nurse
+Hobby: Knitting
+
+Log Entry 3:
+Name: Amin Khan
+Phone: +8801911223346
+Address: House 5, Road 6, Savar, Dhaka
+Email: amin.khan@example.com
+Spouse: Snigdha Haque
+Gender: Male
+Profession: Shopkeeper
+Hobby: Watching cricket

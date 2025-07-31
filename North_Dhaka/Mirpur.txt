@@ -1,0 +1,29 @@
+Log Entry 1:
+Name: Abdul Hamid
+Phone: +8801745678901
+Address: House 30, Road 32, Mirpur, Dhaka
+Email: abdul.hamid@example.com
+Spouse: Amina Begum
+Gender: Male
+Profession: Cricketer
+Hobby: Watching movies
+
+Log Entry 2:
+Name: Sumaiya Rahman
+Phone: +8801845678902
+Address: House 31, Road 33, Mirpur, Dhaka
+Email: sumaiya.rahman@example.com
+Spouse: Rahim Ali
+Gender: Female
+Profession: Fashion Designer
+Hobby: Yoga
+
+Log Entry 3:
+Name: Imran Hasan
+Phone: +8801945678903
+Address: House 34, Road 35, Mirpur, Dhaka
+Email: imran.hasan@example.com
+Spouse: Sadia Islam
+Gender: Male
+Profession: Student
+Hobby: Cycling

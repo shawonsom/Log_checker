@@ -1,0 +1,29 @@
+Log Entry 1:
+Name: Karim Rahman
+Phone: +8801712345678
+Address: House 1, Road 2, Gulshan, Dhaka
+Email: karim.rahman@example.com
+Spouse: Fatima Rahman
+Gender: Male
+Profession: Engineer
+Hobby: Photography
+
+Log Entry 2:
+Name: Salma Khatun
+Phone: +8801812345679
+Address: House 3, Road 4, Gulshan, Dhaka
+Email: salma.khatun@example.com
+Spouse: Anis Ahmed
+Gender: Female
+Profession: Doctor
+Hobby: Gardening
+
+Log Entry 3:
+Name: Jamal Uddin
+Phone: +8801912345680
+Address: House 5, Road 6, Gulshan, Dhaka
+Email: jamal.uddin@example.com
+Spouse: Nasrin Akter
+Gender: Male
+Profession: Teacher
+Hobby: Reading

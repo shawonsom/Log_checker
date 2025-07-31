@@ -1,0 +1,29 @@
+Log Entry 1:
+Name: Shakil Khan
+Phone: +8801722334455
+Address: House 10, Road 12, Keraniganj, Dhaka
+Email: shakil.khan@example.com
+Spouse: Poppy Akter
+Gender: Male
+Profession: Driver
+Hobby: Carrom
+
+Log Entry 2:
+Name: Keya Chowdhury
+Phone: +8801822334456
+Address: House 11, Road 13, Keraniganj, Dhaka
+Email: keya.chowdhury@example.com
+Spouse: Monwar Hossain Dipjol
+Gender: Female
+Profession: Homemaker
+Hobby: Watching TV serials
+
+Log Entry 3:
+Name: Alexander Bo
+Phone: +8801922334457
+Address: House 14, Road 15, Keraniganj, Dhaka
+Email: alexander.bo@example.com
+Spouse: Nasrin
+Gender: Male
+Profession: Mechanic
+Hobby: Listening to folk music

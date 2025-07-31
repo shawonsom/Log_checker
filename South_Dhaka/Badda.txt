@@ -1,0 +1,29 @@
+Log Entry 1:
+Name: Rubel Hossain
+Phone: +8801778901234
+Address: House 60, Road 62, Badda, Dhaka
+Email: rubel.hossain@example.com
+Spouse: Shabnam Yasmin
+Gender: Male
+Profession: Police Officer
+Hobby: Bodybuilding
+
+Log Entry 2:
+Name: Afsana Mimi
+Phone: +8801878901235
+Address: House 61, Road 63, Badda, Dhaka
+Email: afsana.mimi@example.com
+Spouse: Tauquir Ahmed
+Gender: Female
+Profession: Actress
+Hobby: Reciting poems
+
+Log Entry 3:
+Name: Shakib Al Hasan
+Phone: +8801978901236
+Address: House 64, Road 65, Badda, Dhaka
+Email: shakib.alhasan@example.com
+Spouse: Umme Ahmed Shishir
+Gender: Male
+Profession: Cricketer
+Hobby: Playing video games

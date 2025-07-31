@@ -1,0 +1,29 @@
+Log Entry 1:
+Name: Manna Dey
+Phone: +8801733445566
+Address: House 20, Road 22, Nawabganj, Dhaka
+Email: manna.dey@example.com
+Spouse: Sulochana Kulkarni
+Gender: Male
+Profession: Singer
+Hobby: Cooking
+
+Log Entry 2:
+Name: Shabnur
+Phone: +8801833445567
+Address: House 21, Road 23, Nawabganj, Dhaka
+Email: shabnur@example.com
+Spouse: Anik Mahmud
+Gender: Female
+Profession: Actress
+Hobby: Dancing
+
+Log Entry 3:
+Name: Salman Shah
+Phone: +8801933445568
+Address: House 24, Road 25, Nawabganj, Dhaka
+Email: salman.shah@example.com
+Spouse: Samira Huq
+Gender: Male
+Profession: Actor
+Hobby: Riding motorcycle

@@ -1,0 +1,29 @@
+Log Entry 1:
+Name: Ilias Kanchan
+Phone: +8801744556677
+Address: House 30, Road 32, Dohar, Dhaka
+Email: ilias.kanchan@example.com
+Spouse: Diti
+Gender: Male
+Profession: Actor
+Hobby: Social work
+
+Log Entry 2:
+Name: Champa
+Phone: +8801844556678
+Address: House 31, Road 33, Dohar, Dhaka
+Email: champa@example.com
+Spouse: Shahidul Islam Khan
+Gender: Female
+Profession: Actress
+Hobby: Gardening
+
+Log Entry 3:
+Name: Omar Sani
+Phone: +8801944556679
+Address: House 34, Road 35, Dohar, Dhaka
+Email: omar.sani@example.com
+Spouse: Moushumi
+Gender: Male
+Profession: Actor
+Hobby: Playing cards

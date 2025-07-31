@@ -1,0 +1,29 @@
+Log Entry 1:
+Name: Mostafa Kamal
+Phone: +8801767890123
+Address: House 50, Road 52, Mohammadpur, Dhaka
+Email: mostafa.kamal@example.com
+Spouse: Rehana Begum
+Gender: Male
+Profession: Government Officer
+Hobby: Philately
+
+Log Entry 2:
+Name: Taslima Nasrin
+Phone: +8801867890124
+Address: House 51, Road 53, Mohammadpur, Dhaka
+Email: taslima.nasrin@example.com
+Spouse: Selim Khan
+Gender: Female
+Profession: Writer
+Hobby: Blogging
+
+Log Entry 3:
+Name: Enamul Haque
+Phone: +8801967890125
+Address: House 54, Road 55, Mohammadpur, Dhaka
+Email: enamul.haque@example.com
+Spouse: Farhana Mili
+Gender: Male
+Profession: Photographer
+Hobby: Bird Watching

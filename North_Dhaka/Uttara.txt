@@ -1,0 +1,29 @@
+Log Entry 1:
+Name: Fatima Akter
+Phone: +8801756789012
+Address: House 40, Road 42, Uttara, Dhaka
+Email: fatima.akter@example.com
+Spouse: Kabir Khan
+Gender: Female
+Profession: Air Hostess
+Hobby: Dancing
+
+Log Entry 2:
+Name: Jahangir Alam
+Phone: +8801856789013
+Address: House 41, Road 43, Uttara, Dhaka
+Email: jahangir.alam@example.com
+Spouse: Nargis Akter
+Gender: Male
+Profession: Pilot
+Hobby: Fishing
+
+Log Entry 3:
+Name: Nadia Chowdhury
+Phone: +8801956789014
+Address: House 44, Road 45, Uttara, Dhaka
+Email: nadia.chowdhury@example.com
+Spouse: Saif Hasan
+Gender: Female
+Profession: Singer
+Hobby: Hiking

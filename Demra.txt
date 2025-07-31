@@ -1,0 +1,29 @@
+Log Entry 1:
+Name: Misha Sawdagor
+Phone: +8801755667788
+Address: House 40, Road 42, Demra, Dhaka
+Email: misha.sawdagor@example.com
+Spouse: Mita
+Gender: Male
+Profession: Actor
+Hobby: Reading newspaper
+
+Log Entry 2:
+Name: Bobita
+Phone: +8801855667789
+Address: House 41, Road 43, Demra, Dhaka
+Email: bobita@example.com
+Spouse: Iftekharul Alam
+Gender: Female
+Profession: Actress
+Hobby: Watching movies
+
+Log Entry 3:
+Name: Humayun Faridi
+Phone: +8801955667790
+Address: House 44, Road 45, Demra, Dhaka
+Email: humayun.faridi@example.com
+Spouse: Suborna Mustafa
+Gender: Male
+Profession: Actor
+Hobby: Playing chess

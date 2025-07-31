@@ -1,0 +1,29 @@
+Log Entry 1:
+Name: Abdullah Al Mamun
+Phone: +8801723456789
+Address: House 10, Road 12, Banani, Dhaka
+Email: abdullah.mamun@example.com
+Spouse: Ayesha Siddika
+Gender: Male
+Profession: Businessman
+Hobby: Traveling
+
+Log Entry 2:
+Name: Farida Yasmin
+Phone: +8801823456790
+Address: House 11, Road 13, Banani, Dhaka
+Email: farida.yasmin@example.com
+Spouse: Iqbal Hossain
+Gender: Female
+Profession: Lawyer
+Hobby: Cooking
+
+Log Entry 3:
+Name: Hasan Mahmud
+Phone: +8801923456791
+Address: House 14, Road 15, Banani, Dhaka
+Email: hasan.mahmud@example.com
+Spouse: Sharmin Sultana
+Gender: Male
+Profession: Architect
+Hobby: Painting
