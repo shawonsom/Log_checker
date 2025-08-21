@@ -18,12 +18,11 @@ A simple and secure PHP-based log viewer.
 To install Log Checker, follow these steps:
 
 Clone the repository:
-    ```bash
-    
+      
     git clone https://github.com/shawonsom/Log_checker.git
 
     cd Log_checker
-    ```
+
 Plase the Log folder in the **Log_checker** filder. 
 
 You will able to see all the log folder or file in this location.    
