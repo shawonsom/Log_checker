@@ -11,6 +11,22 @@ A simple and secure PHP-based log viewer.
 -   Securely browse log files in different folders.
 -   Search for keywords within log files.
 -   Modern and user-friendly interface.
+-   Scans log entries for specific regular expressions or keywords (e.g., ERROR, HTTP 5\d\d, custom patterns).
+-   Easy-to-edit configuration file (config.ini) to set up log paths, search patterns, and alert settings without changing code.
+
+## Installation
+To install Log Checker, follow these steps:
+
+Clone the repository:
+    ```bash
+    
+    git clone https://github.com/shawonsom/Log_checker.git
+
+    cd Log_checker
+    ```
+Plase the Log folder in the **Log_checker** filder. 
+
+You will able to see all the log folder or file in this location.    
 
 ## Security
 
